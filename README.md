@@ -16,5 +16,5 @@ A simple Pokedex web app that allows users to search Pokémon by name and displa
 
 ## How to Run
 1. Download or clone the repository.
-2. Open index.html in a browser.
+2. Open Pokedex.html in a browser.
 3. Enter a Pokémon name and search.
